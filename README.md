@@ -6,7 +6,7 @@
 
 ## 遍历
 
-- [DFS/BFS](src/遍历/DFSAndBFS)
+- [DFS/BFS](./src/遍历/DFSAndBFS)
 
 ## 图
 
